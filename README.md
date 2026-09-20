@@ -6,17 +6,17 @@ iOS wrapper around AFNetworking makes it easy to use.
 
 ### With source code
 
-- [Download repository](https://github.com/Friend-LGA/LGConnection/archive/master.zip), then add [LGConnection directory](https://github.com/Friend-LGA/LGConnection/blob/master/LGConnection/) to your project.
+- [Download repository](https://github.com/LGLibs/LGConnection/archive/master.zip), then add [LGConnection directory](./LGConnection) to your project.
 - Also you need to install libraries:
-  - [AFNetworking](https://github.com/AFNetworking/AFNetworking) 
+  - [AFNetworking](https://github.com/AFNetworking/AFNetworking)
   - [Reachability](https://github.com/tonymillion/Reachability)
   - [XMLReader](https://github.com/RyanCopley/XMLReader)
-  - [LGHelper](https://github.com/Friend-LGA/LGHelper)
-  - [LGHelper+NS](https://github.com/Friend-LGA/LGHelper-NS)
+  - [LGHelper](https://github.com/LGLibs/LGHelper)
+  - [LGHelper+NS](https://github.com/LGLibs/LGHelper-NS)
 
 ### With CocoaPods
 
-[CocoaPods](http://cocoapods.org/) is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries in your projects. See the "Get Started" section for more details.
+[CocoaPods](http://cocoapods.org) is a dependency manager for Objective-C, which automates and simplifies the process of using 3rd-party libraries in your projects. See the "Get Started" section for more details.
 
 #### Podfile
 ```
@@ -48,8 +48,16 @@ LGConnection use Reachability to watch for internet connection. "RepeatAfterConn
 
 ### More
 
-For more details see [LGConnection.h](https://github.com/Friend-LGA/LGConnection/blob/master/LGConnection/LGConnection.h)
+For more details see [LGConnection.h](./LGConnection/LGConnection.h)
+
+## Repos / Mirrors
+
+- [TRULAB](https://trulab.ru/LGLibs/LGConnection)
+- [GitHub](https://github.com/LGLibs/LGConnection)
+- [GitLab](https://gitlab.com/LGLibs/LGConnection)
+- [Gitea](https://gitea.com/LGLibs/LGConnection)
 
 ## License
 
-LGConnection is released under the MIT license. See [LICENSE](https://raw.githubusercontent.com/Friend-LGA/LGConnection/master/LICENSE) for details.
+Copyright (c) 2015 Grigorii Lutkov \<grigorii@lutkov.dev\></br>
+Licensed under the [MIT License](./LICENSE)
