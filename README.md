@@ -59,5 +59,6 @@ For more details see [LGConnection.h](./LGConnection/LGConnection.h)
 
 ## License
 
-Copyright (c) 2015 Grigorii Lutkov \<grigorii@lutkov.dev\></br>
+Copyright (c) 2015 Grigorii Lutkov \<grigorii@lutkov.dev\>
+
 Licensed under the [MIT License](./LICENSE)
